@@ -36,7 +36,7 @@ function showMenu() {
     }
 }
 
-/*3) to the thumbs down icon that will add a count (counter) for each time the icon is clicked on.*/
+/*3) to the xx thumbs down icon that will add a count (counter) for each time the icon is clicked on.*/
 
 
 var t = document.getElementsByClassName('thumb');
